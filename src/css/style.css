@@ -115,6 +115,12 @@ body::before {
     width: 300px;
 }
 
+audio {
+    width: 200px;
+    height: 400px;
+    margin-left: 50px;
+}
+
 @media (max-width: 1120px) {
     .header .logo {
         max-width: 190px;
