@@ -14,12 +14,12 @@ Projeto realizado por Lara, pelas dicas e segmentos do Dev em Dobro, monitoria e
 
 
 <p align="center">
-  <img alt="Meu Projeto" src="/src/assets/finalizado.png">
+  <img alt="Project 1" src="/src/assets/finalizado.png">
 </p>
 <br>
 
 <p align="center">
-  <img alt="Meu projeto 2" src="/src/assets/finalizado2.png" width="100%">
+  <img alt="Project 2" src="/src/assets/finalizado2.png" width="100%">
 </p>
 
 <p align="center">
