@@ -116,9 +116,10 @@ body::before {
 }
 
 audio {
+    display: flex;
     width: 200px;
-    height: 400px;
-    margin-left: 50px;
+    height: 250px;
+    margin: auto;
 }
 
 @media (max-width: 1120px) {

@@ -12,14 +12,18 @@ Projeto realizado por Lara, pelas dicas e segmentos do Dev em Dobro, monitoria e
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="Meu Projeto em Construção" src="src/assets/imgreadme.png">
-</p>
 
+<p align="center">
+  <img alt="Meu Projeto" src="/src/assets/finalizado.png">
+</p>
 <br>
 
 <p align="center">
-  <img alt="" src="" width="100%">
+  <img alt="Meu projeto 2" src="/src/assets/finalizado2.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="Meu Projeto em Construção" src="src/assets/imgreadme.png">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O MarioBros Project é um design de site para entrada e escolha de personagens, como se fosse um prologo de alguma batalha ou inicio de aventura de gameplay, nele você pode alterar os personagens e ler sua história e habilidades.
+O MarioBros Project é um design de site para entrada e escolha de personagens, como se fosse um prólogo de alguma batalha ou inicio de aventura de gameplay, nele você pode alterar os personagens e ler sua história e habilidades.
 
 
 ## 🔖 Layout
