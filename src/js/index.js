@@ -17,7 +17,7 @@ characters.forEach((character) => {
     const  imagemCharacterBig = document.querySelector ('.big-character');
 
     const idCharacter = character.attributes.id.value;
-        imagemCharacterBig.src = `src/assets/select-${idCharacter}.png`;
+        imagemCharacterBig.src = `./src/assets/select-${idCharacter}.png`;
 
     const nameCharacter = document.getElementById('character-name');
         nameCharacter.innerText = character.getAttribute('data-name');
